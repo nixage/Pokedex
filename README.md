@@ -16,6 +16,3 @@ If you want to build a site for production, follow these steps:
 
 ## Heroku 
 https://pokedex-1.herokuapp.com/poke
-
-## Git Hub 
-https://nixage.github.io/Pokedex-deploy/
